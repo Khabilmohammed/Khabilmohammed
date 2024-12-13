@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [E-Commerce(E-Mob_shoppy)](https://github.com/Khabilmohammed/E_Mob_shoppy)
 
-- 🌱 I’m currently learning **Angular,.net**
+- 🌱 I’m currently learning **React,.net**
 
 - 📫 How to reach me **khabilmohammed3@gmail.com**
 
